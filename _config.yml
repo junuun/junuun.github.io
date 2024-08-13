@@ -128,7 +128,7 @@ author:
       url: "https://github.com/junuun"
    - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/junng_02"
+      url: "https://instagram.com/junng_02"
 
 # Site Footer
 footer:
@@ -141,7 +141,7 @@ footer:
       url: "https://github.com/junuun"
    - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/junng_02"
+      url: "https://instagram.com/junng_02"
 
 # Reading Files
 include:
