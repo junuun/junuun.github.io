@@ -122,36 +122,26 @@ author:
   links:
    - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:jy.choi9450@gmail.com
+      url: "mailto:jy.choi9450@gmail.com
    - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/junuun"
    - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/invites/contact/?igsh=1tpq9jelrrruz&utm_content=nidnmrx"
+      url: "https://www.instagram.com/junng_02"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
-    - label: "GitHub"
+ - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:jy.choi9450@gmail.com
+   - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
+      url: "https://github.com/junuun"
+   - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
-
+      url: "https://www.instagram.com/junng_02"
 
 # Reading Files
 include:
