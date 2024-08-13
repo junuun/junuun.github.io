@@ -120,10 +120,10 @@ author:
   location         : "South Korea"
   email            :
   links:
-    - label: "Email"
+   - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:jy.choi9450@gmail.com
-       - label: "GitHub"
+   - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/junuun"
    - label: "Instagram"
